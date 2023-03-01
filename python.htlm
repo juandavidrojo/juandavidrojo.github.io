@@ -1,1 +1,15 @@
+<html> 
+	<head>
+		<meta charset="utf-8" />
+		<h1>Python</h1>	
+		<link rel="stylesheet" href="nice.css" >
+       
+        <head>  
 
+        <body>  
+        <h2>Images sur Python</h2>	
+        <img src="imagespython.png" />
+
+        </body>
+
+</html> 
